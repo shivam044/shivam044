@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi there 👋 I’m Shivam!
 
 🚀 Associate Technology Lead | Full Stack Developer | Solutions Architect
