@@ -3,7 +3,7 @@ Hi there 👋 I’m Shivam!
 🚀 Associate Technology Lead | Full Stack Developer | Solutions Architect
 💡 Passionate about building scalable web applications
 
-I have 7+ years of experience in Full Stack Development, DevOps, and Scalable Architecture.
+I have 8+ years of experience in Full Stack Development, DevOps, and Scalable Architecture.
 Currently, I’m building innovative web solutions at Centennial College, Toronto.
 
 🔭 What I’m Working On
@@ -25,6 +25,11 @@ Currently, I’m building innovative web solutions at Centennial College, Toront
 📈 GitHub Stats
 
 ![Shivam's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=shivam044&show_icons=true&hide_border=true)
+
+📫 Connect With Me
+
+📩 Email: shivam.ujjainwal044@gmail.com
+🔗 [LinkedIn - Shivam](https://www.linkedin.com/in/shivam-u-b54872114/)
 <!--
 **shivam044/shivam044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
